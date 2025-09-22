@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="T4n.png" alt="T4n OS Logo" width="200"/>
+  <img src="T4n-OS.png" alt="T4n OS Logo" width="200"/>
 </p>
 <h1 align="center">Official Repository</h1>
 
