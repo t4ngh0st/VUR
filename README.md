@@ -21,12 +21,3 @@ sudo nano /etc/xbps.d/20-repository-custom.conf
 ```
 repository=<URL_REPO>
 ```
-
-- Sinkron Repo
-```
-sudo t4n -sr
-```
-- Cek
-```
-t4n -qr
-```
