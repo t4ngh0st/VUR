@@ -22,6 +22,12 @@ sudo nano /etc/xbps.d/20-repository-custom.conf
 repository=<URL_REPO>
 ```
 
+## User T4n OS
+User T4n OS jika ingin menggunakan repositori ini, jalankan perintah ini:
+```
+tan -vur <nama-package>
+```
+
 ## Struktur
 ```
 VUR/
