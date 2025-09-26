@@ -5,8 +5,8 @@
 
 ---
 ## 📦 Tentang Repository
-Repositori ini berisi **paket, library, dan konfigurasi** untuk digunakan dengan **T4n OS** dan **Void Linux**.  
-T4n OS menyediakan pengalaman ringan, cepat, serta kemudahan penggunaan **xbps** & **xbps-src**, dengan **[T4n-Man](https://github.com/t4ngh0st/T4n-Man)** atau **[T4n-Manpy](https://github.com/t4ngh0st/T4n-Manpy)** sebagai package manager wrapper.
+Repositori ini berisi **paket, library, dan konfigurasi** untuk digunakan Community **Void Linux** seperti AUR.  
+T4n OS menyediakan pengalaman ringan, cepat, serta kemudahan penggunaan **xbps** & **xbps-src**, dengan **[T4n-Man](https://github.com/t4ngh0st/T4n-Man)**(Progress) atau **[T4n-Manpy](https://github.com/t4ngh0st/T4n-Manpy)** sebagai package manager wrapper.
 
 ---
 
@@ -20,12 +20,6 @@ sudo nano /etc/xbps.d/20-repository-custom.conf
 - Edit URL File
 ```
 repository=<URL_REPO>
-```
-
-## User T4n OS
-User T4n OS jika ingin menggunakan repositori ini, jalankan perintah ini:
-```
-tan -vur <nama-package>
 ```
 
 ## Struktur
@@ -74,22 +68,6 @@ VUR/
 │   │   ├── template
 │   │   ├── htop.json
 │   │   └── README.md
-│   ├── neofetch/
-│   │   ├── template
-│   │   ├── neofetch.json
-│   │   └── README.md
-│   ├── tmux/
-│   │   ├── template
-│   │   ├── tmux.json
-│   │   └── README.md
-│   ├── curl/
-│   │   ├── template
-│   │   ├── curl.json
-│   │   └── README.md
-│   ├── wget/
-│   │   ├── template
-│   │   ├── wget.json
-│   │   └── README.md
 │   └── other/
 │       ├── template
 │       ├── other.json
@@ -119,14 +97,6 @@ VUR/
 │   ├── metasploit/
 │   │   ├── template
 │   │   ├── metasploit.json
-│   │   └── README.md
-│   ├── nmap/
-│   │   ├── template
-│   │   ├── nmap.json
-│   │   └── README.md
-│   ├── wireshark/
-│   │   ├── template
-│   │   ├── wireshark.json
 │   │   └── README.md
 │   └── other/
 │       ├── template
