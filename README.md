@@ -6,7 +6,7 @@
 ---
 ## 📦 Tentang Repository
 Repositori ini berisi **paket, library, dan konfigurasi** untuk digunakan Community **Void Linux** seperti AUR.  
-T4n OS menyediakan pengalaman ringan, cepat, serta kemudahan penggunaan **xbps** & **xbps-src**, dengan **[T4n-Man](https://github.com/t4ngh0st/T4n-Man)**(Progress) atau **[T4n-Manpy](https://github.com/t4ngh0st/T4n-Manpy)** sebagai package manager wrapper.
+T4n OS menyediakan pengalaman ringan, cepat **[T4n-Manpy](https://github.com/t4ngh0st/T4n-Manpy)** sebagai package manager wrapper VUR.
 
 ---
 
